@@ -1,0 +1,11 @@
+{
+  "name": "ts-template",
+  "version": "0.0.1",
+  "description": "TypeScrupt, Husky, ESLint, Prettier Template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vadzim Antonau",
+  "license": "ISC"
+}
